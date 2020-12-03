@@ -4,6 +4,7 @@
 
 - 保存Weather脚本：https://github.com/imqimu/Weather/blob/master/Weather.js
   - 在Safari中打开，长按`Raw`点击`下载链接文件`保存在系统文件中`Scriptable`文件夹内
+  - 国内下载地址：https://pan.imqimu.cn/Scriptable/Weather.js 操作步骤同上
 
 #### 准备工作
 
