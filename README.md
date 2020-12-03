@@ -18,4 +18,4 @@
 
 #### 完成
 
-- 在桌面添加Scriptable小组件，长按`编辑“Scriptable”`，在第一行选择`Weather`
+- 在桌面添加Scriptable小组件，长按并选择`编辑“Scriptable”`，在第一行选择`Weather`
